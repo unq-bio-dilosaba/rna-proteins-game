@@ -15,9 +15,6 @@ If you are submitting a new block, make sure it has a name and description, and 
 If you are interested in adding a large mechanic/feature or changing large amounts of code, first contact us (Lean o Saba) via e-mail.  
 For most changes, this should not be necessary. I just want to know if you're doing something big so I can offer advice and/or make sure you're not wasting your time on it.
 
-### Avoid boxed types (Integer, Boolean)
-Never create variables or collections with boxed types `Seq<Integer>` or `ObjectMap<Integer, ...>`. Use the collections specialized for this task, e.g. `IntSeq` and `IntMap`.
-
 ### Do not create methods unless necessary.
 Unless a block of code is very large or used in more than 1-2 places, don't split it up into a separate method. Making unnecessary methods only creates confusion, and may slightly decrease performance.  
 
