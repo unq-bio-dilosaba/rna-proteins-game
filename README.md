@@ -1,4 +1,4 @@
-![Logo](core/assets-raw/sprites/ui/logo.png)
+![Logo](img/obisoma.png)
 
 A educational game written with pilas engine.
 
