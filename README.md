@@ -14,6 +14,9 @@ de la Universidad Nacional de Quilmes.
 
 ![inicio](doc_img/inicio.png)
 
+Para jugarlo, bajar el archivo [ran-proteins-game.pilas](ran-proteins-game.pilas)
+y abrirlo con [pilas-engine](https://pilas-engine.com.ar/).
+
 ![objetivo](doc_img/objetivo.png)
 
 El objetivo del juego es armar los ARN de transferencia para matchear con los
